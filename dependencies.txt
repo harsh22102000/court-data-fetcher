@@ -1,0 +1,14 @@
+# Python Dependencies for Court Data Fetcher
+# Install with: pip install -r dependencies.txt
+
+flask==3.0.0
+flask-sqlalchemy==3.1.1
+gunicorn==21.2.0
+psycopg2-binary==2.9.9
+requests==2.31.0
+selenium==4.15.2
+beautifulsoup4==4.12.2
+trafilatura==1.6.4
+werkzeug==3.0.1
+email-validator==2.1.0
+sqlalchemy==2.0.23
